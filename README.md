@@ -1,16 +1,29 @@
 # motivational_quotes_app
 
-A new Flutter project.
+This is a mobile application developed with Flutter framework to provide users with daily doses of motivational quotes to uplift their spirits and inspire them. The app retrieves quotes from various sources and presents them in a beautiful and user-friendly interface.
 
-## Getting Started
+Features
+Home screen with a random quote and a refresh button to get a new quote.
+Daily quote notification to remind users to stay motivated.
+Favorites screen to save favorite quotes for future reference.
+Categories screen to browse quotes by topic, such as success, love, happiness, etc.
+Search functionality to find quotes by keyword or topic.
+Quote details screen with the ability to share quotes with others.
+Settings screen to customize the app's appearance, notification preferences, and other settings..
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+-Home screen with a random quote and a refresh button to get a new quote.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+-Daily quote notification to remind users to stay motivated.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-Favorites screen to save favorite quotes for future reference.
+
+-Categories screen to browse quotes by topic, such as success, love, happiness, etc.
+
+-Search functionality to find quotes by keyword or topic.
+
+-Quote details screen with the ability to share quotes with others.
+
+-Settings screen to customize the app's appearance, notification preferences, and other settings..
+
